@@ -31,6 +31,9 @@ Then register at [imagebb](https://imgbb.com/signup) and just like pantry, this 
 // signup and it will be give to you your api key
 public static final String imgbbKey = "YOUR-API-KEY";
 ```
+
+After everything, you can create a basket named recipes from your pantry account, paste it into the contents of the text file named json.txt and save it and start using it.
+
 ## Usage
 
 That's all you need to do and you're ready to build and use.

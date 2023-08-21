@@ -1,0 +1,26 @@
+{
+  "Recipes": [
+    {
+      "Title": "Meatball",
+      "ShortDec": "It's my favorite food.",
+      "ImageUrl": "https://cdn.yemek.com/mnresize/1250/833/uploads/2016/12/akcaabat-koftesi-one-cikan.jpg",
+      "Includes": "minced meat,onion,garlic,egg,flour,oil,parsley,salt,black pepper,cumin",
+      "How To Make": "1- Let's take our minced meat into a suitable kneading bowl. Add grated and squeezed onion, finely chopped garlic, egg, breadcrumbs, oil, parsley, salt, black pepper and cumin and knead until the ingredients are well mixed.\n\n2- Cover the mixture with cling film and let it rest in the refrigerator for 30 minutes.\n\n3- At the end of the time, let's take our mixture out of the fridge and shape it by breaking pieces with our hands. I made the shape oval, but you can shape it as you wish. However, here you should make sure that your meatballs are thin so that the inside of your meatballs are cooked.\n\n4- Let's put our shaped meatballs on a suitable plate. You can rest your meatballs at this stage if you wish.\n\n5- To cook our meatballs, let's take the oil in our pan on the stove and heat it.\n\n6- Then let's take our meatballs in our pan and cook them by turning them on both sides.\n\n7- Let's take our cooked meatballs on the plate where we spread paper towels to drain the excess oil and serve. Enjoy your meal."
+    },
+    {
+      "Title": "Beef",
+      "ShortDec": "Nusret-quality steak",
+      "ImageUrl": "https://cdn.yemek.com/mncrop/940/625/uploads/2017/05/soslu-biftek-yemekcom.jpg",
+      "Includes": "lamb steak,sunflower oil,butter,carrot,onion,celery stalk,parsley,garlic,tomato, tomato paste,salt,paprika,red pepper flakes",
+      "How To Make": "Fry the steaks in sunflower oil over high heat for 7-8 minutes on both sides and put them in the pot. Dice all the vegetables except tomatoes and garlic and roast them in a pan for 15 minutes. In a separate pan, fry the diluted tomato paste or diced tomatoes with crushed garlic for 2-3 minutes. After adding enough hot water and spices, add it to the steaks in a separate pot. After adding the vegetables over the steaks, cook until the meat is soft. Serve hot."
+    },
+    {
+      "Title": "Watermelon Frozen",
+      "ShortDec": "delicious drink",
+      "ImageUrl": "https://i.lezzet.com.tr/images-xxlarge-recipe/karpuz_frozen-6d21ae10-149d-472a-8e73-f9b8d6faf1b8.jpg",
+      "Includes": "1 slice of watermelon,1 teaspoon granulated sugar,1 bowl of ice cubes",
+      "How To Make": "Remove the seeds from the watermelon slices. Cut into cubes and put them in a food processor. Add sugar and ice pieces and blend for 1-2 minutes. Serve immediately.
+Enjoy your meal."
+    }
+  ]
+}
