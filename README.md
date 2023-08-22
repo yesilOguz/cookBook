@@ -8,7 +8,7 @@ cookBook is an Android application aimed at sharing and viewing recipes.
 
 ## Images from app (virtual device (pixel 6 pro) )
 
-<img src="https://github.com/yesilOguz/cookBook/blob/main/imagesForREADME/mainScreen.jpg" width="180"> | <img src="https://github.com/yesilOguz/cookBook/blob/main/imagesForREADME/recipeScreen.jpg" width="180"> | <img src="https://github.com/yesilOguz/cookBook/blob/main/imagesForREADME/addScreen.jpg" width="180"> 
+<img src="https://github.com/yesilOguz/cookBook/blob/main/imagesForREADME/mainScreen.png" width="180"> <img src="https://github.com/yesilOguz/cookBook/blob/main/imagesForREADME/recipeScreen.png" width="180"> <img src="https://github.com/yesilOguz/cookBook/blob/main/imagesForREADME/AddScreen.png" width="180"> 
 
 ## Installation
 
